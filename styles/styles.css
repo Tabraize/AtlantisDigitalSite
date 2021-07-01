@@ -37,7 +37,7 @@
       rgba(255, 255, 255, 0.9),
       rgba(100, 209, 198, 0.9)
     ),
-    url(/images/head-home.webp) center center no-repeat;
+    url(../images/head-home.webp) center center no-repeat;
   background-size: cover;
   background-position: right;
   padding: 2rem 1rem;
